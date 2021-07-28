@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/Hubnotch/stats-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://stats-preview-card-component-master.netlify.app/)
+- Live Site URL: [live link](https://stats-preview-card-component-master.netlify.app/)
 
 
 ### Built with
